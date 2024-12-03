@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "285240096489",
+    "firebase_url": "https://factory-solution-d822f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "factory-solution-d822f",
+    "storage_bucket": "factory-solution-d822f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285240096489:android:403473311763995793e278",
+        "android_client_info": {
+          "package_name": "com.example.factory_solution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvy9LMSuheSwWpgI-fFVeJuXRNPyNZwY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
